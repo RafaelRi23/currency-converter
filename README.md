@@ -1,4 +1,4 @@
-# Conversor de moedas
+# Currency Converter
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/RafaelRi23/pen/KKBrXJG](https://codepen.io/RafaelRi23/pen/KKBrXJG).
 
